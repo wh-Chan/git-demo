@@ -18,4 +18,4 @@ hello Git!
 hello Git!
 hello Git!
 hello Git!
-hello Git!
+hello Git! hot-fox text
